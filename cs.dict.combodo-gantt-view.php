@@ -1,11 +1,10 @@
 <?php
-/*
- * @copyright   Copyright (C) 2010-2021 Combodo SARL
- * @license     http://opensource.org/licenses/AGPL-3.0
- */
- /**
- * @author Martin Tesař <martin.tesar@yourwifi.cz>
+/**
+ * Localized data
  *
+ * @copyright   Copyright (C) 2024 YOURWiFi s.r.o.
+ * @author	Martin Tesař <martin.tesar@yourwifi.cz>
+ * @license     http://opensource.org/licenses/AGPL-3.0
  */
  
 Dict::Add('CS CZ', 'Czech', 'Čeština', array(
