@@ -2,12 +2,9 @@
 /**
  * Localized data
  *
- * @copyright   Copyright (C) 2013 XXXXX
+ * @copyright   Copyright (C) 2024 YOURWiFi s.r.o.
+ * @author	Martin Tesař <martin.tesar@yourwifi.cz>
  * @license     http://opensource.org/licenses/AGPL-3.0
- */
- /**
- * @author Martin Tesař <martin.tesar@yourwifi.cz>
- *
  */
 
 // Contact class
