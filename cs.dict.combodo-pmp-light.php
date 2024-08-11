@@ -121,13 +121,13 @@ Dict::Add('CS CZ', 'Czech', 'Čeština', array(
 	'Project:GeneralInfo' => 'Informace',
 
 	'Menu:MyProject' => 'Moje projekty',
-	'Menu:MyProject+' => 'Projekty, které spravuji',
+	'Menu:MyProject+' => 'Moje projekty',
 	'Menu:NewProject' => 'Nový projekt',
 	'Menu:Overview' => 'Přehled',
 	'Menu:Project:Overview' => 'Přehled',
 	'Menu:ProjectChangeMenu' => 'Změna projektu',
 	'Menu:ProjectManagement' => 'Projekty',
-	'Menu:ProjectMenu' => 'Projekt',
+	'Menu:ProjectMenu' => 'Projekty',
 	'Menu:SearchProject' => 'Vyhledat projekt',
 
 	'UI:AddLinkedObjectsOf_Class' => 'Přidat %1$s objektů...',
@@ -161,7 +161,7 @@ Dict::Add('CS CZ', 'Czech', 'Čeština', array(
 	'Class:WBS/Attribute:delay' => 'Zpoždění',
 	'Class:WBS/Attribute:description' => 'Popis',
 	'Class:WBS/Attribute:end_date' => 'Požadované datum ukončení',
-	'Class:WBS/Attribute:freetime' => 'Od nynějška do data ukončení',
+	'Class:WBS/Attribute:freetime' => 'Zbývající čas',
 	'Class:WBS/Attribute:labor_cost' => 'Mzdové náklady',
 	'Class:WBS/Attribute:material_cost' => 'Materiálové náklady',
 	'Class:WBS/Attribute:name' => 'Název',
@@ -205,7 +205,7 @@ Dict::Add('CS CZ', 'Czech', 'Čeština', array(
 	'Class:lnkWBSToWBS/Name' => '%1$s - %2$s',
 
 	'Menu:MyWBS' => 'Moje výstupy',
-	'Menu:MyWBS+' => 'WBS které vlastním',
+	'Menu:MyWBS+' => 'Moje výstupy',
 	'Menu:NewWBS' => 'Nový výstup',
 	'Menu:WBSMenu' => 'Výstupy',
 	'Menu:SearchWBS' => 'Vyhledat výstup',
